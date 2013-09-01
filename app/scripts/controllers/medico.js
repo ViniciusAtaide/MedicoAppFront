@@ -1,7 +1,8 @@
 'use strict';
 
 angular.module('ProjetoMedicoAppApp')
-  .controller('MedicoCtrl', function ($scope, Especialidade, Estado, Localizacao) {
+  .controller('MedicoCtrl', ["$scope","Especialidade","Estado","Localizacao",
+    function ($scope, Especialidade, Estado, Localizacao) {
     $scope.medico = {};
 
     $scope.especialidades = Especialidade.all;
@@ -18,4 +19,4 @@ angular.module('ProjetoMedicoAppApp')
 
     $scope.buscaCep = Localizacao.getCEP($scope.medico.cep);
 
-  });
+  }]);

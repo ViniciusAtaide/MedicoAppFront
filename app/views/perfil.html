@@ -7,7 +7,7 @@
     <table class="table" >
         <tr>
             <th>Login</th>
-            <td>{{ user.login }}</td>
+            <td><input type="text" ng-class="editavel" class="edit" ng-click="editavel = !editavel">{{ user.login }}</input></td>
         </tr>
         <tr>
             <th>Senha</th>
@@ -101,4 +101,4 @@
 
     </table>
 </div>
-<a id="editar" class="btn pull-right btn-danger" href="#/perfiledit">Editar perfil</a>
+<btn id="editar" class="btn pull-right btn-danger" ng-click="editPerfil()">Editar perfil</btn>

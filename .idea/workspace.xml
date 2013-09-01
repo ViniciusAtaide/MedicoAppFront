@@ -2,97 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e54ab49-5b39-4081-9a00-3acccecb5fe9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/doctor-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/pessoas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/sickerror.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.buildignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Comentario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/services/Comentario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Especialidade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/services/Especialidade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Estado.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/services/Estado.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Localizacao.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/services/Localizacao.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Medico.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/services/Medico.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ProjetoMedicoApp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma-e2e.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/main.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/medico.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/medico.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/medico.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/medico.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/paciente.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/paciente.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/paciente.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/paciente.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/perfil.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/perfil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/perfil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/resultado.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/resultado.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/controllers/resultado.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/runner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/services/Usuario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/sessao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/Comentario.js" afterPath="$PROJECT_DIR$/app/scripts/services/Comentario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/Especialidade.js" afterPath="$PROJECT_DIR$/app/scripts/services/Especialidade.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/Estado.js" afterPath="$PROJECT_DIR$/app/scripts/services/Estado.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/services/Medico.js" afterPath="$PROJECT_DIR$/app/scripts/services/Medico.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.sass" afterPath="$PROJECT_DIR$/app/styles/main.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/medico.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/medico.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/perfil.html" afterPath="$PROJECT_DIR$/app/views/perfil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/perfil.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/perfil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/resultado.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/resultado.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjetoMedicoApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/bower.json" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377759895660" ignored="false" />
-    <file path="/index.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377969860014" ignored="false" />
-    <file path="/Dummy.txt" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378016242202" ignored="false" />
+    <file path="/index.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378059741933" ignored="false" />
+    <file path="/Dummy.txt" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378045935487" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjetoEdgar/app/styles/main.sass" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377737822631" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjetoEdgar/app/styles/medico.sass" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377737881908" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjetoEdgar/app/views/medico.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377737901460" ignored="false" />
     <file path="/paciente.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377738501133" ignored="false" />
-    <file path="/main.sass" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377969818534" ignored="false" />
-    <file path="/app.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377895983216" ignored="false" />
-    <file path="/a.dummy" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377794518679" ignored="false" />
-    <file path="/Especialidade.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377971992630" ignored="false" />
+    <file path="/main.sass" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378019179301" ignored="false" />
+    <file path="/app.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378025365850" ignored="false" />
+    <file path="/a.dummy" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378062076373" ignored="false" />
+    <file path="/Especialidade.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378048001334" ignored="false" />
     <file path="/medico.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378011112315" ignored="false" />
     <file path="/medico.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377795456121" ignored="false" />
     <file path="/Medico.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377795916252" ignored="false" />
     <file path="/Estado.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378010998700" ignored="false" />
-    <file path="/dummy.xml" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377897620476" ignored="false" />
+    <file path="/dummy.xml" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378058808852" ignored="false" />
     <file path="/medico.sass" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377892990089" ignored="false" />
     <file path="/dialog.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377760678764" ignored="false" />
     <file path="/resultado.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377999008433" ignored="false" />
@@ -102,9 +44,10 @@
     <file path="/Comentario.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1377973314742" ignored="false" />
     <file path="/Localizacao.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378011101207" ignored="false" />
     <file path="/Cliente.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378013149571" ignored="false" />
-    <file path="/perfil.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378015434809" ignored="false" />
-    <file path="/Usuario.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378015387231" ignored="false" />
-    <file path="/perfil.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378015542680" ignored="false" />
+    <file path="/perfil.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378019004991" ignored="false" />
+    <file path="/Usuario.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378062098870" ignored="false" />
+    <file path="/perfil.html" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378017496535" ignored="false" />
+    <file path="/sessao.js" changelist="8e54ab49-5b39-4081-9a00-3acccecb5fe9" time="1378044620083" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,46 +67,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="sessao.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/sessao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="30" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paciente.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/paciente.js">
+      <file leaf-file-name="26a9f8b4.scripts.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/scripts/26a9f8b4.scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+            <state line="0" column="4533" selection-start="4523" selection-end="4533" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="medico.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/medico.js">
+      <file leaf-file-name="resultado.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resultado.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Estado.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/services/Estado.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="perfil.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/perfil.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.0">
+            <state line="21" column="2" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,16 +97,16 @@
       <file leaf-file-name="perfil.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/perfil.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="50" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+            <state line="3" column="46" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <file leaf-file-name="Especialidade.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/Especialidade.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="578" selection-end="578" vertical-scroll-proportion="0.36823934">
+            <state line="39" column="27" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -190,7 +115,25 @@
       <file leaf-file-name="Comentario.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/services/Comentario.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="192" selection-end="414" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usuario.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/Usuario.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="53" selection-start="641" selection-end="641" vertical-scroll-proportion="0.2771855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Medico.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/Medico.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -199,7 +142,16 @@
       <file leaf-file-name="Localizacao.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/services/Localizacao.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="53" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Estado.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/Estado.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -223,22 +175,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/styles/main.sass" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/services/Comentario.js" />
-        <option value="$PROJECT_DIR$/app/scripts/services/Especialidade.js" />
-        <option value="$PROJECT_DIR$/app/scripts/services/Medico.js" />
-        <option value="$PROJECT_DIR$/app/views/resultado.html" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/resultado.js" />
         <option value="$PROJECT_DIR$/app/scripts/services/Localizacao.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/medico.js" />
-        <option value="$PROJECT_DIR$/app/scripts/services/Estado.js" />
         <option value="$PROJECT_DIR$/app/scripts/services/Cliente.js" />
         <option value="$PROJECT_DIR$/app/scripts/services/Perfil.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/perfil.js" />
         <option value="$PROJECT_DIR$/app/views/perfil.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.sass" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/medico.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/perfil.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/resultado.js" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/sessao.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/services/Usuario.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/Medico.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/Estado.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/Especialidade.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/Comentario.js" />
       </list>
     </option>
   </component>
@@ -246,9 +198,10 @@
     <option name="ENABLED" value="false" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="-273" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -276,85 +229,32 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -364,11 +264,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -382,11 +282,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -400,11 +300,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -418,11 +318,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -440,11 +340,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
+              <option name="myItemId" value="MedicoAppFront" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -460,57 +360,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetoMedicoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".tmp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.externalTools" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -565,22 +428,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-273" y="-1088" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26275787" sideWeight="0.78517723" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13125989" sideWeight="0.670418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21482277" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21789473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -647,102 +510,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/Localizacao.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="53" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.sass">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/medico.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="2" selection-start="1952" selection-end="1952" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/Especialidade.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="33" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/Medico.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="42" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/resultado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="51" selection-start="367" selection-end="367" vertical-scroll-proportion="-4.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resultado.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="30" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.0">
+        <state line="3" column="75" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/paciente.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="26" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/medico.js">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+        <state line="183" column="84" selection-start="11427" selection-end="11427" vertical-scroll-proportion="-31.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/paciente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="1154" selection-end="1154" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/Medico.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/services/Localizacao.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="53" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="48" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.55138123" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/services/Estado.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+        <state line="27" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/Especialidade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="27" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/services/Comentario.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="192" selection-end="414" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/perfil.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/resultado.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.0">
+        <state line="21" column="2" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/perfil.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+        <state line="3" column="46" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/dist/scripts/26a9f8b4.scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="578" selection-end="578" vertical-scroll-proportion="0.36823934">
+        <state line="0" column="4533" selection-start="4523" selection-end="4533" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/sessao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/Usuario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="53" selection-start="641" selection-end="641" vertical-scroll-proportion="0.2771855">
           <folding />
         </state>
       </provider>

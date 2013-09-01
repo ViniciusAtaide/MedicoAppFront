@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('ProjetoMedicoAppApp')
-  .controller('ResultadoCtrl', function ($scope, $http, Comentario) {
+  .controller('ResultadoCtrl', ["$scope","$http","Comentario", function ($scope, $http, Comentario) {
 
     $scope.passo = function (m) {
       $scope.medico = m;
@@ -18,4 +18,4 @@ angular.module('ProjetoMedicoAppApp')
         alert("Não foi possível cadastrar seu comentario");
       }
     };
-  });
+  }]);

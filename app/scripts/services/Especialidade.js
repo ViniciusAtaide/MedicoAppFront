@@ -1,13 +1,15 @@
 'use strict';
 
 angular.module('ProjetoMedicoAppApp')
-  .factory('Especialidade', function ($http) {
+  .factory('Especialidade', ["$http", function ($http) {
     return {
-      all: $http.get("especialidade"),
+      all: $http.get("session", {
+        params: {acao: "showesp"}
+      }),
       find:
         function(id) {
-          $http.get("especialidade", {
-            params: {action:"busca", id: id}
+          $http.get("session", {
+            params: {acao:"busca", id: id}
           }).success(function(data) {
               return data;
             }).error(function() {
@@ -16,7 +18,7 @@ angular.module('ProjetoMedicoAppApp')
         },
       add: function(especialidade) {
         $http.post("especialidade", {
-          params: {action:"add", especialidade: especialidade}
+          params: {acao:"add", especialidade: especialidade}
         }).success(function(data) {
             return data;
           }).error(function() {
@@ -25,7 +27,7 @@ angular.module('ProjetoMedicoAppApp')
       },
       delete: function(id) {
         $http.post("especialidade",{
-          params: {action:"delete", id: id}
+          params: {acao:"delete", id: id}
         }).success(function() {
             return true;
           }).error(function() {
@@ -35,7 +37,7 @@ angular.module('ProjetoMedicoAppApp')
       findByNome:
         function(nome) {
           $http.get("especialidade", {
-            params: {action:"buscaPorNome", nome:nome}
+            params: {acao:"buscaPorNome", nome:nome}
           }).success(function(data) {
               return data;
           }).error(function() {
@@ -43,4 +45,4 @@ angular.module('ProjetoMedicoAppApp')
           });
         }
     }
-  });
+  }]);

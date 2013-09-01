@@ -7,7 +7,7 @@ angular.module('ProjetoMedicoAppApp')
       find:
         function(id) {
           $http.get("estado", {
-            params: {action:"busca", id: id}
+            params: {acao:"busca", id: id}
           }).success(function(data) {
               return data;
             }).error(function() {
@@ -16,7 +16,7 @@ angular.module('ProjetoMedicoAppApp')
         },
       add: function(estado) {
         $http.post("estado", {
-          params: {action:"add", estado: estado}
+          params: {acao:"add", estado: estado}
         }).success(function(data) {
             return data;
           }).error(function() {
@@ -25,7 +25,7 @@ angular.module('ProjetoMedicoAppApp')
       },
       delete: function(id) {
         $http.post("estado",{
-          params: {action:"delete", id: id}
+          params: {acao:"delete", id: id}
         }).success(function() {
             return true;
           }).error(function() {

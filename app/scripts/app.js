@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('ProjetoMedicoAppApp',[])
-  .config(function ($routeProvider, $locationProvider, $httpProvider) {
+  .config(["$routeProvider","$locationProvider","$httpProvider",function ($routeProvider, $locationProvider, $httpProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
@@ -30,4 +30,4 @@ angular.module('ProjetoMedicoAppApp',[])
 
     $httpProvider.defaults.useXDomain = true;
     delete $httpProvider.defaults.headers.common['X-Requested-With'];
-  });
+  }]);

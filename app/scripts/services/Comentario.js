@@ -8,7 +8,7 @@ angular.module('ProjetoMedicoAppApp')
       find:
         function(id) {
           $http.get("comentario", {
-            params: {action:"busca", id: id}
+            params: {acao:"busca", id: id}
           }).success(function(data) {
               return data;
             }).error(function() {
@@ -18,7 +18,7 @@ angular.module('ProjetoMedicoAppApp')
 
       add: function(comentario) {
         $http.post("comentario", {
-          params: {action:"add", comentario: comentario}
+          params: {acao:"add", comentario: comentario}
         }).success(function(data) {
             return data;
           }).error(function() {
@@ -28,7 +28,7 @@ angular.module('ProjetoMedicoAppApp')
 
       delete: function(id) {
         $http.post("comentario",{
-          params: {action:"delete", id: id}
+          params: {acao:"delete", id: id}
         }).success(function() {
             return true;
           }).error(function() {
