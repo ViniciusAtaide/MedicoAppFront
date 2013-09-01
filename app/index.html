@@ -1,0 +1,126 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Medico ltda.</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <!-- build:css({.tmp,app}) styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+</head>
+  <body ng-app="ProjetoMedicoAppApp">
+    <!--[if lt IE 7]>
+      <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="bower_components/es5-shim/es5-shim.js"></script>
+      <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+    <div class="wrapper grey">
+        <div class="header">
+            <div class="logo">
+                <a href="inicio"><img src="images/logo.png" alt=""></a><br>
+            </div>
+            <nav class="navbar" role="navigation">
+                <ul class="nav">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="medico">Medico</a></li>
+                    <li><a href="paciente">Paciente</a></li>
+                    <li><a href="resultado">Resultado</a></li>
+                    <li><a href="perfil">Perfil</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="container" ng-view></div>
+
+    <div class="black">
+        <div class="middle">
+            <div class="solutions">
+                <p class="text6">Mapa do Site</p>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/medico">Medico</a></li>
+                    <li><a href="/paciente">Paciente</a></li>
+                    <li><a href="/resultado">Resultado</a></li>
+                    <li><a href="perfil">Perfil</a></li>
+                </ul>
+            </div>
+            <div class="what">
+                <p class="text6">O que há de novo?</p>
+                <p class="text7">21/fev/2013</p>
+                <p class="text8">
+                    At vero eos et accusamus et iustomes odio
+                    dignissimos ducimus qui blan­ditiis praesentiumvoluptatum deleniti
+                </p>
+                <p class="text7">20/fev/2013</p>
+                <p class="text8">
+                    At vero eos et accusamus et iustomes odio
+                    dignissimos ducimus qui blan­ditiis praesentiumvoluptatum deleniti
+                </p>
+            </div>
+            <div class="smm">
+                <p class="text6">Siga-me</p>
+                <p><a href=""><img src="images/10.jpg" alt=""></a></p>
+                <p><a href=""><img src="images/11.jpg" alt=""></a></p>
+                <p><a href=""><img src="images/12.jpg" alt=""></a></p>
+            </div>
+            <div class="clear"></div>
+            <div><img src="images/13.jpg" alt=""></div>
+        </div>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src='//www.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+    <script src="bower_components/jquery/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+
+        <!-- build:js scripts/plugins.js -->
+        <script src="bower_components/bootstrap-sass/js/bootstrap-affix.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-alert.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-dropdown.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-tooltip.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-modal.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-transition.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-button.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-popover.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-typeahead.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-carousel.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-scrollspy.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-collapse.js"></script>
+        <script src="bower_components/bootstrap-sass/js/bootstrap-tab.js"></script>
+        <!-- endbuild -->
+
+
+        <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/main.js"></script>
+        <script src="scripts/controllers/medico.js"></script>
+        <script src="scripts/controllers/paciente.js"></script>
+        <script src="scripts/controllers/perfil.js"></script>
+        <script src="scripts/controllers/resultado.js"></script>
+        <script src="scripts/services/Especialidade.js"></script>
+        <script src="scripts/services/Medico.js"></script>
+        <script src="scripts/services/Estado.js"></script>
+        <script src="scripts/services/Comentario.js"></script>
+        <script src="scripts/services/Localizacao.js"></script>
+        <script src="scripts/services/Cliente.js"></script>
+        <!-- endbuild -->
+</body>
+</html>
